@@ -9,3 +9,4 @@ The first day! I worked up an intial diagram with all the currently planned feat
 
 
 Gone are the days of hesitantly using my finger to make sure components aren't hot! 
+I'm thinking of adding an integrated power supply for Pinecils for easy access.
