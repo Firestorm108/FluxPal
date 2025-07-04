@@ -5,4 +5,5 @@ The FluxPal is made to be a soldering assistant to solve a lot of problems commo
 
 The first day! I worked up an intial diagram with all the currently planned features and overall design. 
 [2025-07-03 19-27.pdf](https://github.com/user-attachments/files/21049473/2025-07-03.19-27.pdf)
+
 Gone are the days of hesitantly using my finger to make sure components aren't hot! 
