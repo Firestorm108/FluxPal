@@ -12,3 +12,13 @@ Gone are the days of hesitantly using my finger to make sure components aren't h
 I'm thinking of adding an integrated power supply for Pinecils for easy access.
 
 Total Time Spent: 3 Hours
+
+<h1>July 4th</h1>
+After a lot of thinking, I decided to have a small PCB for the front part which encases:
+-The screen
+-The arduino
+-The K-type thermocouple and amplifier
+-The continuation buzzer circuit
+
+![CleanShot 2025-07-04 at 18 10 55](https://github.com/user-attachments/assets/58cd0db2-f469-4e2f-94df-aac1f707457a)
+
