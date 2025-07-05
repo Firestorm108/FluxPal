@@ -14,11 +14,11 @@ I'm thinking of adding an integrated power supply for Pinecils for easy access.
 Total Time Spent: 3 Hours
 
 <h1>July 4th</h1>
-After a lot of thinking, I decided to have a small PCB for the front part which encases: /n
--The screen /n
--The arduino /n
--The K-type thermocouple and amplifier /n
--The continuation buzzer circuit /n
+After a lot of thinking, I decided to have a small PCB for the front part which encases: <br/>
+-The screen <br/>
+-The arduino <br/>
+-The K-type thermocouple and amplifier <br/>
+-The continuation buzzer circuit <br/>
 
 ![CleanShot 2025-07-04 at 18 10 55](https://github.com/user-attachments/assets/58cd0db2-f469-4e2f-94df-aac1f707457a)
 
